@@ -1,4 +1,4 @@
-# Inventory-Catalog
+# Inventory-Catalog (OPG Assignment)
 Full-stack CRUD application with React and Spring Boot
 Full-stack CRUD application for product management built with React 18, Spring Boot 3, and H2 Database. Features real-time search, persistent storage, responsive UI with modern gradient design, and built-in H2 console for database management. Includes 20 pre-loaded sample products. Fully containerized with Docker - run entire stack with single command.
 
